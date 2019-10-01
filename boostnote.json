@@ -14,6 +14,11 @@
       "key": "888163b6bb8ae21eaf80",
       "color": "#E8D252",
       "name": "Sprint-boot+Hibernate JPA+Thymeleaf3"
+    },
+    {
+      "key": "801401b5328ac4900d28",
+      "color": "#E10051",
+      "name": "Unknown 1"
     }
   ],
   "version": "1.0"
